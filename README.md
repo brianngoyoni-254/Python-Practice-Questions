@@ -88,7 +88,7 @@ python-practice/
 
 # Requirements
 
-* Python 3.x
+* Python 3.14.5
 
 ---
 
